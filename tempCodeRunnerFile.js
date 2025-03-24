@@ -1,0 +1,1 @@
+console.log('O elemento removido foi', elementoremovido)
